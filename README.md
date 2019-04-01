@@ -1,6 +1,6 @@
 # Meter
 
-A power usage application that monitors the usage and converts it to currency and much more.
+A power usage app that monitors the usage and converts it to currency and much more.
 
 
 Concept by:
